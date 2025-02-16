@@ -1,0 +1,17 @@
+﻿------------   28.Video Notları  ------------  
+
+--Gelirlerimizi yöneteceğiz
+--Giderlerimizi yöneteceğiz --Borçlarımız olacak borçlarımızı göreceğiz.
+--Banka hareketlerimizi yöneteceğiz
+--Bankalarımız olacak banka bilgilerimizi göstereceğiz
+--Alacaklarımızı göstereceğiz 
+--Kategorilerimiz olacak 
+--Faturalarımız olacak.
+
+
+--Bankamızda paramızı nasıl tutarız 
+	-- 1 numaralı işlem / Ziraat Bankası / 2000₺ / Gelen Havale / 16.02.2025/Açıklama:Amcadan yeğenine helal olsun okusun da büyük adam olsun .
+
+
+
+
