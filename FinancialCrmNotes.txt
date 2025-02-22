@@ -12,6 +12,8 @@
 --Bankamızda paramızı nasıl tutarız 
 	-- 1 numaralı işlem / Ziraat Bankası / 2000₺ / Gelen Havale / 16.02.2025/Açıklama:Amcadan yeğenine helal olsun okusun da büyük adam olsun .
 
-
+// banka metinleri için attığımız query 
+Select Top(5) * From BankProcesses Order By BankProcessId Desc 
+Bu bizim son gelen 5 adeti query ile çağırma yöntemimiz kodumuzda ise entitye uyarlayarak yazacağız.
 
 
