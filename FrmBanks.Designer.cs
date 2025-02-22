@@ -35,7 +35,7 @@
             this.btnBillForm = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnBanksForm = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
@@ -76,7 +76,7 @@
             this.panel1.Controls.Add(this.btnBillForm);
             this.panel1.Controls.Add(this.button4);
             this.panel1.Controls.Add(this.button3);
-            this.panel1.Controls.Add(this.button2);
+            this.panel1.Controls.Add(this.btnBanksForm);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Location = new System.Drawing.Point(0, 55);
             this.panel1.Name = "panel1";
@@ -156,17 +156,17 @@
             this.button3.Text = "Banka Hareketleri";
             this.button3.UseVisualStyleBackColor = false;
             // 
-            // button2
+            // btnBanksForm
             // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(11)))), ((int)(((byte)(84)))), ((int)(((byte)(128)))));
-            this.button2.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(26, 95);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(199, 50);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "Bankalar";
-            this.button2.UseVisualStyleBackColor = false;
+            this.btnBanksForm.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(11)))), ((int)(((byte)(84)))), ((int)(((byte)(128)))));
+            this.btnBanksForm.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnBanksForm.ForeColor = System.Drawing.Color.White;
+            this.btnBanksForm.Location = new System.Drawing.Point(26, 95);
+            this.btnBanksForm.Name = "btnBanksForm";
+            this.btnBanksForm.Size = new System.Drawing.Size(199, 50);
+            this.btnBanksForm.TabIndex = 2;
+            this.btnBanksForm.Text = "Bankalar";
+            this.btnBanksForm.UseVisualStyleBackColor = false;
             // 
             // button1
             // 
@@ -446,7 +446,7 @@
         #endregion
 
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnBanksForm;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Button button6;
