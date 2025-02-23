@@ -105,7 +105,7 @@
             this.panel3.Controls.Add(this.panel5);
             this.panel3.Controls.Add(this.panel4);
             this.panel3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.panel3.Location = new System.Drawing.Point(251, 54);
+            this.panel3.Location = new System.Drawing.Point(253, 54);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(913, 285);
             this.panel3.TabIndex = 19;
