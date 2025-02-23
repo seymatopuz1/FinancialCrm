@@ -84,5 +84,42 @@ namespace FinancialCrm
                 lblBillAmount.Text = internetFaturasi.ToString() + " ₺";
             }
         }
+
+        private void btnCategoryForm_Click(object sender, EventArgs e)
+        {
+            Categories categories = new Categories();
+            categories.Show();
+            this.Hide();
+
+        }
+
+        private void btnBanksForm_Click(object sender, EventArgs e)
+        {
+            FrmBanks banks = new FrmBanks();
+            banks.Show();
+            this.Hide();
+        }
+
+        private void btnSpendingsForm_Click(object sender, EventArgs e)
+        {
+            FrmSpendings spendings = new FrmSpendings();
+            spendings.Show();
+            this.Hide();
+        }
+
+        private void btnBillForm_Click(object sender, EventArgs e)
+        {
+            FrmBilling billing = new FrmBilling();  
+            billing.Show();
+            this.Hide();
+        }
+
+        private void btnBankProcessForm_Click(object sender, EventArgs e)
+        {
+            FrmBankProcesses bankProcesses = new FrmBankProcesses();
+            bankProcesses.Show();
+            this.Hide();
+
+        }
     }
 }
