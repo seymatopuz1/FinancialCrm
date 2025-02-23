@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.button8 = new System.Windows.Forms.Button();
+            this.frmLogoutForm = new System.Windows.Forms.Button();
             this.btnLoginForm = new System.Windows.Forms.Button();
             this.btnSpendingsForm = new System.Windows.Forms.Button();
             this.btnBillForm = new System.Windows.Forms.Button();
@@ -65,7 +65,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(11)))), ((int)(((byte)(84)))), ((int)(((byte)(128)))));
-            this.panel1.Controls.Add(this.button8);
+            this.panel1.Controls.Add(this.frmLogoutForm);
             this.panel1.Controls.Add(this.btnLoginForm);
             this.panel1.Controls.Add(this.btnSpendingsForm);
             this.panel1.Controls.Add(this.btnBillForm);
@@ -78,17 +78,18 @@
             this.panel1.Size = new System.Drawing.Size(256, 623);
             this.panel1.TabIndex = 1;
             // 
-            // button8
+            // frmLogoutForm
             // 
-            this.button8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(11)))), ((int)(((byte)(84)))), ((int)(((byte)(128)))));
-            this.button8.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button8.ForeColor = System.Drawing.Color.White;
-            this.button8.Location = new System.Drawing.Point(26, 509);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(199, 50);
-            this.button8.TabIndex = 8;
-            this.button8.Text = "Çıkış Yap";
-            this.button8.UseVisualStyleBackColor = false;
+            this.frmLogoutForm.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(11)))), ((int)(((byte)(84)))), ((int)(((byte)(128)))));
+            this.frmLogoutForm.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.frmLogoutForm.ForeColor = System.Drawing.Color.White;
+            this.frmLogoutForm.Location = new System.Drawing.Point(26, 509);
+            this.frmLogoutForm.Name = "frmLogoutForm";
+            this.frmLogoutForm.Size = new System.Drawing.Size(199, 50);
+            this.frmLogoutForm.TabIndex = 8;
+            this.frmLogoutForm.Text = "Çıkış Yap";
+            this.frmLogoutForm.UseVisualStyleBackColor = false;
+            this.frmLogoutForm.Click += new System.EventHandler(this.frmLogoutForm_Click);
             // 
             // btnLoginForm
             // 
@@ -412,7 +413,7 @@
         #endregion
 
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button frmLogoutForm;
         private System.Windows.Forms.Button btnLoginForm;
         private System.Windows.Forms.Button btnSpendingsForm;
         private System.Windows.Forms.Button btnBillForm;

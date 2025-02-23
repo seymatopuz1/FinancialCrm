@@ -123,5 +123,10 @@ namespace FinancialCrm
         {
 
         }
+
+        private void frmLogoutForm_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
