@@ -1,7 +1,3 @@
-FinancialCrm projeniz için aşağıdaki gibi bir README dosyası oluşturabilirsiniz:
-
----
-
 # FinancialCrm
 
 FinancialCrm, finansal kurumlar ve işletmeler için müşteri ilişkileri yönetimi (CRM) süreçlerini kolaylaştırmak amacıyla geliştirilmiş bir uygulamadır. Bu proje, yazılım mühendisi ve eğitmen **Murat Yücedağ**'ın eğitim serisi kapsamında geliştirilmiştir. Proje, müşteri bilgilerini etkin bir şekilde yönetmeyi, finansal işlemleri izlemeyi ve raporlamayı hedefler.
