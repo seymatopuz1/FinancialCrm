@@ -20,31 +20,31 @@ Projenin daha iyi anlaşılması için aşağıda bazı ekran görüntüleri bul
 
 ### Giriş Sayfası Formu
 
-![Giriş Sayfası Formu](https://github.com/seymatopuz1/FinancialCrm/img/Login_Page.png)
+![Giriş Sayfası Formu](https://github.com/seymatopuz1/FinancialCrm/tree/master/img/Login_Page.png)
 
 ### Dashboard Formu
 
-![Dashboard Formu](https://github.com/seymatopuz1/FinancialCrm/blob/main/final%20case/Dashboard%20Page.png)
+![Dashboard Formu](https://github.com/seymatopuz1/FinancialCrm/tree/master/img/Dashboard_Page.png)
 
 ### Harcamalar Formu
 
-![Harcamalar Formu](https://github.com/seymatopuz1/FinancialCrm/blob/main/final%20case/Spendings%20Page.png)
+![Harcamalar Formu](https://github.com/seymatopuz1/FinancialCrm/tree/master/img/Spendings_Page.png)
 
 ### Kategori Formu
 
-![Kategori Formu](https://github.com/seymatopuz1/FinancialCrm/blob/main/final%20case/Category%20Page.png)
+![Kategori Formu](https://github.com/seymatopuz1/FinancialCrm/tree/master/img/Category_Page.png)
 
 ### Ödemeler Formu
 
-![Ödemeler Formu](https://github.com/seymatopuz1/FinancialCrm/blob/main/final%20case/Billing%20Page.png)
+![Ödemeler Formu](https://github.com/seymatopuz1/FinancialCrm/tree/master/img/Billing_Page.png)
 
 ### Bankalar Formu
 
-![Bankalar Formu](https://github.com/seymatopuz1/FinancialCrm/blob/main/final%20case/Bank%20Page.png)
+![Bankalar Formu](https://github.com/seymatopuz1/FinancialCrm/tree/master/img/Banks_Page.png)
 
 ### Bankalar Transfer
 
-![Bankalar Transfer Formu](https://github.com/seymatopuz1/FinancialCrm/blob/main/final%20case/Banks%20Processes%20Page.png)
+![Bankalar Transfer Formu](https://github.com/seymatopuz1/FinancialCrm/tree/master/img/Bank_Processes_Page.png)
 
 
 ## Eğitim Kaynağı
