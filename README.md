@@ -16,31 +16,31 @@ Projenin daha iyi anlaşılması için aşağıda bazı ekran görüntüleri bul
 
 ### Giriş Sayfası Formu
 
-![Giriş Sayfası Formu](https://github.com/seymatopuz1/FinancialCrm/img/Login_Page.png)
+![Giriş Sayfası Formu](img/Login_Page.png)
 
 ### Dashboard Formu
 
-![Dashboard Formu](https://github.com/seymatopuz1/FinancialCrm/img/Dashboard_Page.png)
+![Dashboard Formu](img/Dashboard_Page.png)
 
 ### Harcamalar Formu
 
-![Harcamalar Formu](https://github.com/seymatopuz1/FinancialCrm/img/Spendings_Page.png)
+![Harcamalar Formu](img/Spendings_Page.png)
 
 ### Kategori Formu
 
-![Kategori Formu](https://github.com/seymatopuz1/FinancialCrm/img/Category_Page.png)
+![Kategori Formu](img/Category_Page.png)
 
 ### Ödemeler Formu
 
-![Ödemeler Formu](https://github.com/seymatopuz1/FinancialCrm/img/Billing_Page.png)
+![Ödemeler Formu](img/Billing_Page.png)
 
 ### Bankalar Formu
 
-![Bankalar Formu](https://github.com/seymatopuz1/FinancialCrm/img/Banks_Page.png)
+![Bankalar Formu](img/Banks_Page.png)
 
 ### Bankalar Transfer
 
-![Bankalar Transfer Formu](https://github.com/seymatopuz1/FinancialCrm/img/Bank_Processes_Page.png)
+![Bankalar Transfer Formu](img/Bank_Processes_Page.png)
 
 
 ## Eğitim Kaynağı
