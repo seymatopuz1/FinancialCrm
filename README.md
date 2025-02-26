@@ -20,7 +20,7 @@ Projenin daha iyi anlaşılması için aşağıda bazı ekran görüntüleri bul
 
 ### Giriş Sayfası Formu
 
-![Giriş Sayfası Formu](https://github.com/seymatopuz1/FinancialCrm/blob/main/img/Login_Page.png)
+![Giriş Sayfası Formu](https://github.com/seymatopuz1/FinancialCrm/img/Login_Page.png)
 
 ### Dashboard Formu
 
